@@ -1,20 +1,17 @@
-# <center>CSC Hackathon 2021, Emails classification</center>
-## <center>(not) a dream team</center>
+<h1 align='center'> CSC Hackathon 2021, Prediction of email opening </h1>
+<h2 align='center'> (not) a dream team </h2>
 
 - Andrii Yerko
 - Artem Dikhtiar
-
-- Volodymyr Kuzko
 - Oleksandr Bratus
-
-
+- Volodymyr Kuzko
 
 
 ## "Conservative solution": Logistic Regression + analytical skills :)
 We started with EDA:
-
-![](./images/eda.png)
-
+<p align='center'>
+<img src=./images/eda.png/>
+</p>
 Based on EDA we created the following features, and trained the LogisticRegression on them:
 
 - **MailBoxID** -> One Hot (29 uniques)
@@ -32,13 +29,15 @@ Based on EDA we created the following features, and trained the LogisticRegressi
 ---
 
 ### Embeddings? word2vec? BERT?
-
-![](./images/clouds.jpg)
-
+<p align='center'>
+<img src=./images/clouds.jpg align='center'/>
+</p>
 
 
 ---
 
 ### Achieved 6th place: 0.54293 f1 on a private leaderboard
 
-![](./images/meme.jpg)
+<p align='center'>
+<img src=./images/meme.jpg align='center'/>
+</p>

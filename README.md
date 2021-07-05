@@ -13,7 +13,8 @@
 
 
 ## "Conservative solution": Logistic Regression + analytical skills :)
-[![nbviewer](https://img.shields.io/badge/nbviewer-EDA%20notebook-orange)](https://nbviewer.jupyter.org/github/andrii0yerko/CSC-Hackathon-2021/blob/main/emails-eda.ipynb) [![nbviewer](https://img.shields.io/badge/nbviewer-Submission%20notebook-green)](https://nbviewer.jupyter.org/github/andrii0yerko/CSC-Hackathon-2021/blob/main/final-solution-feature-engineering-log-reg.ipynb)
+[![nbviewer](https://img.shields.io/static/v1?label=nbviewer&message=EDA%20notebook&color=orange&logo=jupyter)](https://nbviewer.jupyter.org/github/andrii0yerko/CSC-Hackathon-2021/blob/main/emails-eda.ipynb) 
+[![nbviewer](https://img.shields.io/static/v1?label=nbviewer&message=Submission%20notebook&color=green&logo=jupyter)](https://nbviewer.jupyter.org/github/andrii0yerko/CSC-Hackathon-2021/blob/main/final-solution-feature-engineering-log-reg.ipynb)
 
 We started with EDA:
 <p align='center'>
